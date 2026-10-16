@@ -1,2 +1,0 @@
-# name
-decriçao pt br
